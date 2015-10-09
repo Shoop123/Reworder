@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Release\WordNetClasses.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Release\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Release\WordNetClasses.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Release\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Release\WordNetClasses.pdb

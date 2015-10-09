@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ArticleChecker\ArticleChecker\bin\Debug\ArticleChecker.dll
+C:\Users\Daniel\Desktop\ArticleChecker\ArticleChecker\bin\Debug\ArticleChecker.pdb
+C:\Users\Daniel\Desktop\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.dll
+C:\Users\Daniel\Desktop\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\ArticleChecker\ArticleChecker\bin\Debug\ArticleChecker.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\ArticleChecker\ArticleChecker\bin\Debug\ArticleChecker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\ArticleChecker\ArticleChecker\obj\Debug\ArticleChecker.pdb

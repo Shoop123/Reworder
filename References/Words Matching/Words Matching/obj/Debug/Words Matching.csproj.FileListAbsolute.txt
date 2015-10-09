@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\obj\Debug\Words Matching.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\bin\Debug\Words Matching.dll
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\bin\Debug\Words Matching.pdb
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\bin\Debug\WordNetClasses.dll
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\bin\Debug\WordNetClasses.pdb
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\obj\Debug\Words Matching.dll
+C:\Users\Daniel\Desktop\Words Matching\Words Matching\obj\Debug\Words Matching.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\Words Matching\Words Matching\bin\Debug\Words Matching.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\Words Matching\Words Matching\bin\Debug\Words Matching.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\Words Matching\Words Matching\obj\Debug\Words Matching.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\Words Matching\Words Matching\obj\Debug\Words Matching.pdb

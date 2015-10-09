@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.dll.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll.config
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.pdb
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\bin\Debug\WordNetClasses.dll.xml
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.dll
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.dll.xml
+C:\Users\danie\Documents\Visual Studio 2015\Projects\Anti-Plagiarism\References\WordNet.Net\Library\cs\obj\Debug\WordNetClasses.pdb

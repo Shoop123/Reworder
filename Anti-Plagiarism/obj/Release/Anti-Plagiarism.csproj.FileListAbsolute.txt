@@ -1,0 +1,74 @@
+F:\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.exe.config
+F:\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.exe
+F:\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.pdb
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\MainWindow.baml
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\MainWindow.g.cs
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\App.g.cs
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism_MarkupCompile.cache
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.g.resources
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti_Plagiarism.Properties.Resources.resources
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.csproj.GenerateResource.Cache
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.exe
+F:\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Anti-Plagiarism.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\AfterTheDeadline.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\ArticleChecker.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.Collections.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.Extensions.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.IO.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.ResourceAPIs.WordNet.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\OpenNLP.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\RelevanceModel.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\SharpEntropy.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\stanford-corenlp-3.5.1.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Words Matching.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.Runtime.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\ejml-0.23.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\jollyday.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\xom.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\javax.json.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\joda-time.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Media.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.Runtime.JNI.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Management.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Beans.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.AWT.WinForms.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Charsets.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Naming.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Corba.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Remoting.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\IKVM.OpenJDK.Misc.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\AfterTheDeadline.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\ArticleChecker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.Collections.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.Extensions.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.IO.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.ResourceAPIs.WordNet.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\LAIR.ResourceAPIs.WordNet.xml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\RelevanceModel.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\WordNetClasses.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\bin\Release\Words Matching.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism_Content.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti_Plagiarism.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\Anti-Plagiarism\obj\Release\Anti-Plagiarism.csprojResolveAssemblyReference.cache

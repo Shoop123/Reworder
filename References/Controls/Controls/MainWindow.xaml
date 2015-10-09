@@ -1,0 +1,24 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Controls" x:Class="Controls.MainWindow"
+        Title="MainWindow" Height="350" Width="525" WindowStyle="None" ResizeMode="NoResize" MouseDown="Window_MouseDown">
+    <Grid>
+
+        <local:FlowButton x:Name="btnClose" HorizontalAlignment="Left" Height="25" Margin="475,0,0,0" VerticalAlignment="Top" Width="50" BorderThickness="1" Text="X" MouseUp="btn_MouseUp"/>
+        <local:FlowButton x:Name="btnMin" HorizontalAlignment="Left" Margin="450,0,0,0" VerticalAlignment="Top" Text="-" Width="25" MouseUp="btnMin_MouseUp"/>
+
+        <local:FlowProgressBar x:Name="pro" HorizontalAlignment="Center" Margin="225,0,225,25" VerticalAlignment="Bottom" Height="25" Width="75"/>
+        <local:FlowButton x:Name="btnChange" HorizontalAlignment="Center" Margin="225,0" VerticalAlignment="Bottom" Text="Change" Height="25"/>
+        <RichTextBox x:Name="h" HorizontalAlignment="Left" Height="75" Margin="10,124,0,0" VerticalAlignment="Top" Width="505">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text="RichTextBox"/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <local:FlowTextBox x:Name="txtInput" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Height="75" Width="505"/>
+
+    </Grid>
+
+</Window>

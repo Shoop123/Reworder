@@ -1,0 +1,7 @@
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\bin\Debug\WordsMatching.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\bin\Debug\WordsMatching.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\bin\Debug\WordNetClasses.dll
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\bin\Debug\WordNetClasses.pdb
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\obj\Debug\WordsMatching.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\obj\Debug\WordsMatching.exe
+C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Anti-Plagiarism\References\WordNet.Net\Projects\Thanh\obj\Debug\WordsMatching.pdb
